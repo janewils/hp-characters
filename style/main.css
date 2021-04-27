@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+}
+
+button {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border: cornflowerblue;
+}
